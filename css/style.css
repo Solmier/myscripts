@@ -63,6 +63,8 @@ body{
 
 
 #commentwindow {
+  background: #13b428;
+  background-color: #0ecf1e;
   width: 720px;
   margin-bottom: 5px;
   margin: 10px auto 20px auto;
